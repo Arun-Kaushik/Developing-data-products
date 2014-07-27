@@ -1,17 +1,4 @@
 
-title       : A note on regression analysis of mtcars data set
-subtitle    : Regression Analysis
-author      : Arun Kaushik
-job         : Reproducible Pitch Presentation submitted as Coursera Assesment
-logo        : logo.jpg
-framework   : html5slides       # {io2012, html5slides, shower, dzslides, ...}
-highlighter : prettify  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : [bootstrap]            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
----
-
 Developing-data-products
 ========================
 
