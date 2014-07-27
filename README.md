@@ -1,24 +1,17 @@
 Developing-data-products
 ========================
----
-title       : Relationship between variables and MPG
-subtitle    : mtcars dataset
-author      : SwhGo_oN
-job         : Part2 - Reproducible Pitch Presentation
+title       : A note on regression analysis of mtcars data set
+subtitle    : Regression Analysis
+author      : Arun Kaushik
+job         : Reproducible Pitch Presentation submitted as Coursera Assesment
 logo        : logo.jpg
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
+framework   : html5slides       # {io2012, html5slides, shower, dzslides, ...}
+highlighter : prettify  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
-
-## Deployed App
-
-#
-
---- .class #id 
 
 ## mtcars dataset - Description
 
